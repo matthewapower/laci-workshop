@@ -5,20 +5,29 @@ body {
 
 img {
   width: 100%;
+<<<<<<< HEAD
   max-width: 400px;
+=======
+  max-width: 490px;
+>>>>>>> Style that boii...
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
 
 h1 {
+<<<<<<< HEAD
   font-size: 88px;
+=======
+  font-size: 90px;
+>>>>>>> Style that boii...
   line-height: 85px;
   border-bottom: 4px solid black;
   display: inline-block;
   margin: 0;
 }
 
+<<<<<<< HEAD
 h2 {
   font-size: 30px;
 }
@@ -42,6 +51,8 @@ a {
   font-weight: 500;
 }
 
+=======
+>>>>>>> Style that boii...
 .text-block {
   position: relative;
   display: block;
@@ -50,17 +61,21 @@ a {
   max-width: 600px;
 }
 
+<<<<<<< HEAD
 .tagline {
   font-size: 14px;
   font-family: sans-serif;
 }
 
+=======
+>>>>>>> Style that boii...
 .logo {
     position: absolute;
     max-width: 141px;
     top: 80px;
     right: -2px;
 }
+<<<<<<< HEAD
 
 .container {
   max-width: 800px;
@@ -205,3 +220,5 @@ a {
     display: block;
   }
 }
+=======
+>>>>>>> Style that boii...
